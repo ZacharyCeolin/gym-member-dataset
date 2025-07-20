@@ -1,6 +1,6 @@
 # Gym Member Dataset Analysis
 
-This repository contains a series of Jupyter notebooks analyzing a gym membership dataset. The analysis is split across three notebooks, each focusing on a different stage of the data exploration and visualization process.
+This repository contains a series of Jupyter notebooks analyzing the ['Gym Members Exercise Dataset'](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset) by Vala Khorasani on Kaggle. The analysis is split across three notebooks, each focusing on a different stage of the data exploration and visualization process.
 
 ## 📂 Notebooks Overview
 
